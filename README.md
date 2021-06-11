@@ -1,5 +1,6 @@
 # organizze-app-clone-android
-This is a simple android mobile app clone of one of the most used app for financial control in Brasil
+This is a simple android mobile app clone of one of the most used app for financial control in Brasil.
+This App was built with Kotlin language and google firebase as the backend database
 
 ![plot](./screenshots/1.jpg)
 ![plot](./screenshots/2.jpg)
